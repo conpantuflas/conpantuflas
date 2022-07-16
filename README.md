@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#  Soy Judith 
+#  my name is Judith 
 
 <!--
 **conpantuflas/conpantuflas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
